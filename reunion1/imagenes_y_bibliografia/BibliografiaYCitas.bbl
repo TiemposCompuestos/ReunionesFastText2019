@@ -1,0 +1,308 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Almeida%
+\ \BBA {} Xex{\'{e}}o%
+}{%
+Almeida%
+\ \BBA {} Xex{\'{e}}o%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+AlmeidaXexeo}
+\APACinsertmetastar {%
+AlmeidaXexeo}%
+\begin{APACrefauthors}%
+Almeida, F.%
+\BCBT {}\ \BBA {} Xex{\'{e}}o, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Word Embeddings: {A} Survey} {Word embeddings: {A}
+  survey}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{CoRR}{abs/1901.09069}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Axler%
+}{%
+Axler%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+axler15}
+\APACinsertmetastar {%
+axler15}%
+\begin{APACrefauthors}%
+Axler, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Linear Algebra Done Right} {Linear algebra done right}\
+  (\PrintOrdinal{Third}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Springer International Publishing}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bengio%
+, Ducharme%
+, Vincent%
+\BCBL {}\ \BBA {} Jauvin%
+}{%
+Bengio%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+bengio2003neural}
+\APACinsertmetastar {%
+bengio2003neural}%
+\begin{APACrefauthors}%
+Bengio, Y.%
+, Ducharme, R.%
+, Vincent, P.%
+\BCBL {}\ \BBA {} Jauvin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A neural probabilistic language model} {A neural
+  probabilistic language model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{JMLR}{}{}{1137--1155}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bhattacharjee%
+}{%
+Bhattacharjee%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+bhattacharjee2017}
+\APACinsertmetastar {%
+bhattacharjee2017}%
+\begin{APACrefauthors}%
+Bhattacharjee, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {fastText Quick Start Guide: Get started with Facebook’s
+  library for text representation and classification} {fasttext quick start
+  guide: Get started with facebook’s library for text representation and
+  classification}\ (\PrintOrdinal{1}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Packt Publishing}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bojanowski%
+, Grave%
+, Joulin%
+\BCBL {}\ \BBA {} Mikolov%
+}{%
+Bojanowski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+bojanowski16}
+\APACinsertmetastar {%
+bojanowski16}%
+\begin{APACrefauthors}%
+Bojanowski, P.%
+, Grave, E.%
+, Joulin, A.%
+\BCBL {}\ \BBA {} Mikolov, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enriching Word Vectors with Subword Information}
+  {Enriching word vectors with subword information}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{CoRR}{abs/1607.04606}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dumais%
+, Furnas%
+, Landauer%
+, Deerwester%
+\BCBL {}\ \BBA {} Harshman%
+}{%
+Dumais%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1988}}%
+}]{%
+dumais1988}
+\APACinsertmetastar {%
+dumais1988}%
+\begin{APACrefauthors}%
+Dumais, S\BPBI T.%
+, Furnas, G\BPBI W.%
+, Landauer, T\BPBI K.%
+, Deerwester, S.%
+\BCBL {}\ \BBA {} Harshman, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Using latent semantic analysis to improve access to
+  textual information} {Using latent semantic analysis to improve access to
+  textual information}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the SIGCHI conference on Human factors in
+  computing systems} {Proceedings of the sigchi conference on human factors in
+  computing systems}\ (\BPGS\ 281--285).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Firth%
+}{%
+Firth%
+}{%
+{\protect \APACyear {1957}}%
+}]{%
+firth57}
+\APACinsertmetastar {%
+firth57}%
+\begin{APACrefauthors}%
+Firth, J\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1957}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Applications of General Linguistics} {Applications of
+  general linguistics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transactions of the Philological Society}{56}{1}{1-14}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Joulin%
+, Grave%
+, Bojanowski%
+\BCBL {}\ \BBA {} Mikolov%
+}{%
+Joulin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+joulin2016bag}
+\APACinsertmetastar {%
+joulin2016bag}%
+\begin{APACrefauthors}%
+Joulin, A.%
+, Grave, E.%
+, Bojanowski, P.%
+\BCBL {}\ \BBA {} Mikolov, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bag of Tricks for Efficient Text Classification} {Bag of
+  tricks for efficient text classification}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1607.01759}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Manning%
+, Raghavan%
+\BCBL {}\ \BBA {} Schütze%
+}{%
+Manning%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+manning2008}
+\APACinsertmetastar {%
+manning2008}%
+\begin{APACrefauthors}%
+Manning, C\BPBI D.%
+, Raghavan, P.%
+\BCBL {}\ \BBA {} Schütze, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Introduction to Information Retrieval} {Introduction to
+  information retrieval}.
+\newblock
+\APACaddressPublisher{Cambridge, UK}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mikolov%
+, Sutskever%
+, Chen%
+, Corrado%
+\BCBL {}\ \BBA {} Dean%
+}{%
+Mikolov%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+mikolov2013}
+\APACinsertmetastar {%
+mikolov2013}%
+\begin{APACrefauthors}%
+Mikolov, T.%
+, Sutskever, I.%
+, Chen, K.%
+, Corrado, G\BPBI S.%
+\BCBL {}\ \BBA {} Dean, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Distributed representations of words and phrases and
+  their compositionality} {Distributed representations of words and phrases and
+  their compositionality}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in neural information processing systems}
+  {Advances in neural information processing systems}\ (\BPGS\ 3111--3119).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pennington%
+, Socher%
+\BCBL {}\ \BBA {} Manning%
+}{%
+Pennington%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+pennington2014glove}
+\APACinsertmetastar {%
+pennington2014glove}%
+\begin{APACrefauthors}%
+Pennington, J.%
+, Socher, R.%
+\BCBL {}\ \BBA {} Manning, C\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Glove: Global Vectors for Word Representation.} {Glove:
+  Global vectors for word representation.}{\BBCQ}
+\newblock
+\BIn{} (\BVOL~14, \BPGS\ 1532--1543).
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
